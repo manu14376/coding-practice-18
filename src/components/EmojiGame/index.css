@@ -1,0 +1,10 @@
+/* Write your code here. */
+.emojis-container {
+  height: 100vh;
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+}
+.emojisList {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 40px;
+}

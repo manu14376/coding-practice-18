@@ -1,0 +1,36 @@
+/* Write your code here. */
+.gameResultCard {
+  display: flex;
+  height: 500px;
+  width: 700px;
+  justify-content: center;
+  align-items: center;
+  border: white 1px solid;
+  border-radius: 10px;
+}
+.playAgainBtn {
+  padding: 8px;
+  color: #3d3d3d;
+  background-color: #ffce27;
+  font-family: roboto;
+  border-radius: 5px;
+  border: 0px;
+  font-weight: bold;
+}
+.gameResult-heading {
+  font-size: 35px;
+  color: white;
+  font-family: roboto;
+}
+.bestScore-heading {
+  color: white;
+  font-family: roboto;
+  font-size: 20px;
+  font-weight: bold;
+}
+.score {
+  font-family: roboto;
+  font-size: 22px;
+  font-weight: bold;
+  color: #6a59ff;
+}
