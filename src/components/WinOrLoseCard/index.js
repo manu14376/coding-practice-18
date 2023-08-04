@@ -22,7 +22,7 @@ const WinOrLoseCard = props => {
           Play Again
         </button>
       </div>
-      <img src={imgUrl} alt={imgAlt} className="img" />
+      <img src={imgUrl} alt={imgAlt} />
     </div>
   )
 }
